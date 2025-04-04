@@ -1,0 +1,29 @@
+{
+  "user": {
+    "studentid": "6630250559",
+    "Name": "นางสาวฐิตารีย์ คำเขียว",
+    "majorID": "S06",
+    "majorName": "วิทยาการคอมพิวเตอร์",
+    "oldschool": "โรงเรียนบางปะกอกวิทยาคม"
+  },
+  "subjects": [
+    {
+      "id": "01418214",
+      "name": "Practicum in Software Development",
+      "credits": 1,
+      "grade": "A"
+    },
+    {
+      "id": "01418236",
+      "name": "Operating Systems",
+      "credits": 3,
+      "grade": "A"
+    },
+    {
+      "id": "01418261",
+      "name": "Fundamentals of Artificial Intelligence",
+      "credits": 3,
+      "grade": "A"
+    }
+  ]
+}
